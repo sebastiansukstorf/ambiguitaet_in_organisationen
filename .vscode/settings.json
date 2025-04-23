@@ -1,10 +1,17 @@
 {
     "cSpell.words": [
+        "Ambiguitätsintoleranz",
+        "Ambiguitätstoleranz",
         "authoryear",
         "biblatex",
         "biblio",
         "elsevier",
+        "gutzmer",
         "Prototypenkultur",
         "Sukstorf"
-    ]
+    ],
+    "editor.fontSize": 12,
+    "editor.rulers": [],
+    "editor.renderLineHighlight": "line",
+    "workbench.colorCustomizations": {}
 }
