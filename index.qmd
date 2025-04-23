@@ -1,7 +1,5 @@
 ---
 title: "„Über Menschen“ – oder eine neue kognitive Komplexität zur Bewältigung von Ambiguität in Organisationen"
-lang: de
-
 author:
   - name: Sebastian Sukstorf
     orcid: 0000-0002-1538-5658
@@ -12,23 +10,17 @@ author:
         city: Ahrensburg
         state: Schleswig-Holstein
         postal-code: 22926
+date: 2025-04-23
 
+citation: true
+doi: 10.12345/ueber-menschen-2025
+url: https://sebastian.sukstorf.de/papers/ueber-menschen
+
+lang: de
 abstract: |
-  Ambiguität ist ein zentraler Faktor in modernen Führungs- und Organisationskontexten. Anhand von Juli Zehs „Über Menschen“ wird gezeigt, wie Unsicherheit und Mehrdeutigkeit erlebt und verarbeitet werden. Geringe Ambiguitätstoleranz kann Innovationsfähigkeit und Anpassungspotenzial in Unternehmen einschränken. Gefordert sind Führungskräfte mit kognitiver Flexibilität, reflexiver Haltung und der Fähigkeit, Unsicherheit als strategische Ressource zu nutzen. Ambiguität wird dabei nicht als Problem, sondern als Voraussetzung für zukunftsfähige Führung verstanden.
+  Ambiguität ist ein zentraler Faktor in modernen Führungs- und Organisationskontexten. [...]
 
 keywords: [Ambiguität, Führung, Organisation, Komplexität, kognitive Flexibilität, Prototypenkultur, Leadership]
-
-execute:
-  echo: false
-  eval: true
-  freeze: auto
-
-language:
-  locale: de
-  bibliography-title: "Literaturverzeichnis"
-
-date: today
-date-format: "DD.MM.YYYY"
 
 bibliography: 
   - bib/bibliography.bib
@@ -43,16 +35,14 @@ format:
   pdf:
     toc: true
     number-sections: true
-    number-tables: true  # explizit!
+    number-tables: true
     keep-tex: true
     biblio-style: authoryear
     cite-method: biblatex
-  #docx:
-  #  toc: true
-  #  number-sections: true
 
 manuscript: true
 ---
+
 
 
 # Über Menschen
