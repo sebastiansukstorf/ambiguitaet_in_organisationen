@@ -2,6 +2,10 @@ project:
   type: manuscript
   output-dir: docs
 
+manuscript:
+  title: "Ambiguität in Organisationen"
+  site-url: "https://ambiguitaet.sukstorf.de"
+
 execute:
   freeze: auto
 
