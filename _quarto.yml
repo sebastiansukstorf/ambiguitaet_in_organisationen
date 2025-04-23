@@ -2,9 +2,10 @@ project:
   type: manuscript
   output-dir: docs
 
-manuscript:
-  title: "Ambiguität in Organisationen"
-  site-url: "https://ambiguitaet.sukstorf.de"
+title: "Ambiguität in Organisationen"
+site-url: "http://ambiguitaet.sukstorf.de/"
+
+manuscript: {}
 
 execute:
   freeze: auto
@@ -17,6 +18,3 @@ format:
   #docx: default
   #jats: default
   #agu-pdf: default
-
-
-

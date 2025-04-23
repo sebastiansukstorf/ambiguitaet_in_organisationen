@@ -10,7 +10,7 @@ date: 2025-04-23
 
 citation: true
 #doi: 10.12345/ueber-menschen-2025
-url: https://ambiguitaete.sukstorf.de
+url:  http://ambiguitaet.sukstorf.de/
 
 lang: de
 abstract: |
@@ -86,7 +86,7 @@ Zu demselben Ergebnis kommt auch der von dem Beratungsunternehmen Profil M und d
 
 Aber es darf berechtigterweise gefragt werden, ob Führungskräfte mit diesen Fähigkeiten auch im System ihrer Organisation über die nötigen Zeitressourcen verfügen, um mit ambigen Zuständen umgehen zu können. 
 
-Vielleicht können die handelnden Personen im Wirtschaftssystem von anderen System lernen. So wagt Gutzmer einen Blick auf den Architekten Rem Koolhaas [OMA – Office for Metropolitan Architects] und stellt die provokante Frage, ob Manager eventuell von Architekten lernen können.
+Vielleicht können die handelnden Personen im Wirtschaftssystem von anderen System lernen. So wagt Gutzmer einen Blick auf den Architekten Rem Koolhaas [OMA – Office for Metropolitan Architects](https://www.oma.com) und stellt die provokante Frage, ob Manager eventuell von Architekten lernen können.
 
 Architekten, wie Manager waren in der Vergangenheit Kohärenzmaschinen, mit einem allwissenden und vorausschauenden Anspruch zur sicheren Gestaltung einer eindeutigen Welt. Dieser Zustand löst sich aufgrund der zunehmenden Geschwindigkeit bei den vielfältigen und gleichzeitigen Veränderungen aber immer mehr auf [@roth2019 11]. Stattdessen ist es dem inhärenten Manager auferlegt, mit den Widersprüchlichkeiten seiner Zeit im Zusammenhang seiner Rolle[n] immer wieder neue und offene Lösungen zu finden [@gutzmer2020, 102].
 
@@ -100,25 +100,22 @@ So entwickeln sich Manager immer mehr zu ambiguitätstoleranten Persönlichkeite
 
 # Über was gilt es nachzudenken
 
-In der folgenden @tbl-ref sind die vier Bereich mit relevanten Fragen zur Reflexion über die Ambiguitätstoleranz zusammengefasst. Sowohl Führungskräfte als auch Teams können sich diese Fragen beantworten.
+Im folgenden sind vier Bereich mit relevanten Aspekten zur Reflexion über die Ambiguitätstoleranz zusammengefasst. Sowohl Führungskräfte als auch Teams können sich diese Fragen beantworten.
 
-::: {#tbl-ref}
-
-| **Wahrnehmung**      |
-|:---------------------|
-| - Überprüfung der Denkprozesse auf individueller Ebene<br>- Gelassenheit in Führungs- und Visionsprozessen   | 
-| **Kontext** |
-| - Hinterfragen der Beziehungen zur sozialen Umwelt<br>- Verständnis schaffen für die Art und Weise, wie Erfahrungen erklärt werden<br>- Widersprüchlichkeit als Element von visionärem Denken und Innovation verstehen  |
-| **Haltung**    | 
-| - Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und Person<br>- Gestaltung einer Prototypenkultur und Reduktion von statuskonstruierenden Wissensansprüchen  | 
-|**Handeln**    |
-| - Strukturelle Faktoren für unser Handeln hinterfragen<br>- Machtfragen erkennen und verstehen [ggf. verändern und neu gestalten]<br>- Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und ggf. anpassen  |
-
-Reflexionsbereiche zur Ambiguitätsbewältigung
-
-:::
-
-*Quelle: siehe auch [@kozica2025], eigene Darstellung*
+* **Wahrnehmung**
+    + Überprüfung der Denkprozesse auf individueller Ebene
+    + Gelassenheit in Führungs- und Visionsprozessen
+* **Kontext**
+    + Hinterfragen der Beziehungen zur sozialen Umwelt
+    + Verständnis schaffen für die Art und Weise, wie Erfahrungen erklärt werden
+    + Widersprüchlichkeit als Element von visionärem Denken und Innovation verstehen
+* **Haltung**
+    + Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und Person
+    + Gestaltung einer Prototypenkultur und Reduktion von statuskonstruierenden Wissensansprüchen
+* **Handeln**
+    + Strukturelle Faktoren für unser Handeln hinterfragen
+    + Machtfragen erkennen und verstehen [ggf. verändern und neu gestalten]
+    + Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und ggf. anpassen 
 
 # Über ein Fazit
 
