@@ -1,0 +1,432 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  ngerman,
+  letterpaper,
+  DIV=11]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage[german]{selnolig} % disable illegal ligatures
+\fi
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+\usepackage[style=authoryear,]{biblatex}
+\addbibresource{bib/bibliography.bib}
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Inhaltsverzeichnis}
+\else
+  \newcommand\contentsname{Inhaltsverzeichnis}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Abbildungsverzeichnis}
+\else
+  \newcommand\listfigurename{Abbildungsverzeichnis}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Tabellenverzeichnis}
+\else
+  \newcommand\listtablename{Tabellenverzeichnis}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Abbildung}
+\else
+  \newcommand\figurename{Abbildung}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabelle}
+\else
+  \newcommand\tablename{Tabelle}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{Listingverzeichnis}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={„Über Menschen`` -- oder eine neue kognitive Komplexität zur Bewältigung von Ambiguität in Organisationen},
+  pdfauthor={Sebastian Sukstorf},
+  pdflang={de},
+  pdfkeywords={Ambiguität, Führung, Organisation, Komplexität, kognitive
+Flexibilität, Prototypenkultur, Leadership},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{„Über Menschen`` -- oder eine neue kognitive Komplexität zur
+Bewältigung von Ambiguität in Organisationen}
+\author{Sebastian Sukstorf}
+\date{23.04.2025}
+\begin{document}
+\maketitle
+\begin{abstract}
+Ambiguität ist ein zentraler Faktor in modernen Führungs- und
+Organisationskontexten. Anhand von Juli Zehs „Über Menschen`` wird
+gezeigt, wie Unsicherheit und Mehrdeutigkeit erlebt und verarbeitet
+werden. Geringe Ambiguitätstoleranz kann Innovationsfähigkeit und
+Anpassungspotenzial in Unternehmen einschränken. Gefordert sind
+Führungskräfte mit kognitiver Flexibilität, reflexiver Haltung und der
+Fähigkeit, Unsicherheit als strategische Ressource zu nutzen. Ambiguität
+wird dabei nicht als Problem, sondern als Voraussetzung für
+zukunftsfähige Führung verstanden.
+\end{abstract}
+
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+
+\section{Über Menschen}\label{uxfcber-menschen}
+
+„Sie beharrt darauf, sich keine klare Meinung bilden zu müssen, wenn es
+keine einfachen Lösungen gibt, und die gibt es momentan noch weniger als
+sonst.`` So lässt Juli Zeh ihre Protagonistin Dora in dem Roman „Über
+Menschen`` ihre Einschätzung zum Beginn der Corona-Pandemie beschreiben
+\autocite[28.]{zeh2022}.
+
+Mit diesem Zitat verdeutlicht Juli Zeh anschaulich, was Ambiguität im
+Kern ausmacht. Nach Bauer werden mit dem Begriff \textbf{Ambiguität}
+Zustände beschrieben, die als mehrdeutig oder weniger unterscheidbar
+gelten. Sie erscheinen als vage und es sind Zustände, mit denen wir uns
+als Menschen permanent auseinandersetzten müssen
+\autocite[13]{bauer2018}.
+
+Diese Auseinandersetzung erscheint für viele eine Zumutung und die
+notwendige Ambiguitätstoleranz wird in manchen Lebensbereichen der
+Gesellschaft immer geringer. Menschen tendieren vielmehr zur
+Eindeutigkeit und unsere Ambiguitätstoleranz ist oft nur begrenzt
+ausgeprägt. Der Wunsch nach Eindeutigkeit macht das Leben einfacher, ab
+es reduziert auch die Vielfalt.
+
+\section{Über Eindeutigkeit und ihre
+Gefahren}\label{uxfcber-eindeutigkeit-und-ihre-gefahren}
+
+Menschen unterscheiden sich in ihrer jeweiligen Ambiguitätstoleranz,
+ähnlich wie im Umgang mit Stress. Als Führungskraft sollte es notwendig
+sein, die psychologischen Einflüsse der MitarbeiterInnen und die Umwelt
+im jeweiligen System des Unternehmens zu berücksichtigen und aktiv zu
+gestalten. Denn die Ambiguitätsintoleranz birgt eine große Gefahr: Wir
+verlieren die Vielfalt und werden im wahrsten Sinne blind.
+
+Ambiguitätsintolerante Systeme, also auch Organisationen, tendieren
+dazu, Dinge, die nicht erkannt werden, als unwichtig zu betrachten oder
+ganz fallen zu lassen \autocite[54]{bauer2018}.
+
+Das zeigt sich beispielweise am Desinteresse vieler Menschen für
+Politik. Das fehlende Interesse an politischen Themen und
+Fragestellungen kann vielleicht ein Zeichen der Ambiguitätsverweigerung
+sein und verweist auf eine mangelnde Bereitschaft zur inhaltlichen
+Auseinandersetzung mit Politik \autocite[13 und 25]{bauer2018}.
+
+Aber Juli Zeh beschreibt in ihrem Roman „Über Menschen`` nicht nur die
+Situation zum Beginn der Corona-Pandemie als ein Bespiel für eine ambige
+gesellschaftliche Situation, sie lässt Dora auch gleich eine Antwort für
+eine mögliche Auflösung von Ambiguität geben:
+
+\begin{quote}
+„{[}\ldots{]} der Mensch kann viel weniger begreifen und kontrollieren,
+als er glaubt. Auf dieses Dilemma kann weder Nichtstun noch Aktionismus
+die richtige Antwort sein. Nach Doras Ansicht geht es um Augenmaß beim
+Handeln und größtmögliche Ehrlichkeit in der Kommunikation.
+Voraussetzung von Ehrlichkeit ist das Bekenntnis zum
+Nicht-genau-Wissen.``
+\end{quote}
+
+Damit können hier schon die relevanten Handlungsfelder für einen
+möglichen Abbau von Ambiguität ausmachen. Es geht im Wesentlichen um das
+eigene Handeln, unsere Haltung und Wahrnehmung, im Sinne eines
+‚Nicht-genau-Wissen`, sowie den Kontext, in dem wir uns bewegen
+\autocite[vgl.][]{kozica2025}.
+
+\section{Über das eherne
+Ambiguitätsenergieerhaltungsgesetz}\label{uxfcber-das-eherne-ambiguituxe4tsenergieerhaltungsgesetz}
+
+Aber eine Warnung gleich vorweg: Das Auflösen von Ambiguität erzeugt oft
+neue Formen von Ambiguität. So schafft das Auflösen der ambigen Zustände
+oft nie die gewünschte Eindeutigkeit. Ambiguität lässt sich vielleicht
+gar nicht vollkommen auflösen. Bauer spricht in diesem Zusammenhang auch
+von einem Ambiguitätsenergieerhaltungsgesetz:
+
+\begin{quote}
+„Je mehr Energie für die Beseitigung von Ambiguität aufgewendet wird,
+desto mehr Ambiguität entsteht im Verhältnis zur jeweils beseitigten
+Ambiguität.`` \autocite[76]{bauer2018}
+\end{quote}
+
+Uneindeutigkeit scheint also damit eine Zustand unserer Zeit zu sein. So
+müssen wir uns nach Zygmut Bauman damit abfinden, dass Ambiguität das
+Mittel der Moderne schlechthin ist, um unsere selbstverschuldeten und
+destruktiven Potenziale aufzulösen \autocite{bauman2016}.
+
+Der SAP-Vorstand Thomas Saueressig stellt fest, dass Entscheidungen nie
+schwarz oder weiß sind und man mit dieser Ambiguität umzugehen lernen
+muss. \autocite{witte2024} Aber manche Menschen lösen diese Zustände nie
+auf, da sie Angst vor Ungewissheiten der Zukunft haben und es ihnen am
+Vertrauen in die eigenen Möglichkeiten fehlt
+\autocite[15]{morschitzky2009}.
+
+Ambiguität, Undurchschaubarkeit und Unwissenheit über zukünftige
+Entwicklungen und Paradoxien prägen den unternehmerischen Alltag. Vor
+diesem Hintergrund lösen sich Gewissheiten auf und es reicht nicht mehr
+aus, nur das „Bestehende zu optimieren``. Es gilt eine
+„Sowohl-als-auch``-Haltung durch Reflexion der eigenen „Wahrnehmung,
+Haltungen und Handlungen sowie den Kontext`` einzunehmen
+\autocite{kozica2025}.
+
+\section{Über die inhärenten Manager und die Suche nach
+Information}\label{uxfcber-die-inhuxe4renten-manager-und-die-suche-nach-information}
+
+Es werden also ambiguitätstolerante Führungskräfte benötigt, die nicht
+bestrebt sind, Ambiguität zu vermeiden, sondern sie vielmehr suchen,
+genießen und diese sehr bewusst zu gestalten \autocite[90]{bauer2018}.
+
+Hruby schreibt diesen Menschen eine hohe kognitive Komplexität bei. Sie
+zeichnen sich gerade dadurch aus, dass sie über eine „gewisse Struktur``
+und über ausreichendes Wissen verfügen. Kognitiv komplexe Menschen
+suchen nach umfangreichen und neuen Informationen. Sie verbringen viel
+Zeit damit, die vorhandenen Informationen im gegebenen Kontext zu
+interpretieren und betrachten diese auch von unterschiedlichen
+Dimensionen. Eine hohe kognitive Komplexität kann dazu beitragen, mit
+Ambiguität besser umzugehen \autocite[5]{hruby2014}.
+
+Zu demselben Ergebnis kommt auch der von dem Beratungsunternehmen Profil
+M und der Hochschule Fresenius publiziert Talent-Klima-Index {[}TKI{]}.
+Der TKI 2024 nennt die Ambiguitätstolerant an dritter Stelle als eine
+der wichtigsten Kompetenzen von Führungskräften, nach Optimismus,
+Zukunftsorientierung und einem positiven Umgang mit Veränderungen
+\autocite{stulle2024}.
+
+\section{Über die
+``Kohärenzmaschinen''}\label{uxfcber-die-kohuxe4renzmaschinen}
+
+Aber es darf berechtigterweise gefragt werden, ob Führungskräfte mit
+diesen Fähigkeiten auch im System ihrer Organisation über die nötigen
+Zeitressourcen verfügen, um mit ambigen Zuständen umgehen zu können.
+
+Vielleicht können die handelnden Personen im Wirtschaftssystem von
+anderen System lernen. So wagt Gutzmer einen Blick auf den Architekten
+Rem Koolhaas {[}OMA -- Office for Metropolitan Architects{]} und stellt
+die provokante Frage, ob Manager eventuell von Architekten lernen
+können.
+
+Architekten, wie Manager waren in der Vergangenheit Kohärenzmaschinen,
+mit einem allwissenden und vorausschauenden Anspruch zur sicheren
+Gestaltung einer eindeutigen Welt. Dieser Zustand löst sich aufgrund der
+zunehmenden Geschwindigkeit bei den vielfältigen und gleichzeitigen
+Veränderungen aber immer mehr auf \autocite[11]{roth2019}. Stattdessen
+ist es dem inhärenten Manager auferlegt, mit den Widersprüchlichkeiten
+seiner Zeit im Zusammenhang seiner Rolle{[}n{]} immer wieder neue und
+offene Lösungen zu finden \autocite[102]{gutzmer2020}.
+
+In diesem Zusammenhang können kognitiv flexible und inhärenten Manager
+sich an den Diagramm-Modellen der Architekten von OMA orientieren. Diese
+Diagramme, sind ein visuelles Rechenergebnis, welches alle Ergebnisse,
+Vermutungen und jegliches Wissen im System eines Gebäude integrierte.
+
+Damit werden diese Diagramme ein Kommunikationsmittel zur Erläuterung
+der ambigen Zustände und integrieren alle vorherrschenden
+Widersprüchlichkeiten in einem Gebäude oder einem System.
+
+Diese Widersprüchlichkeit fehlt oft bei dem Verfolgen einer klaren
+Vision und dem dauerhaften Beibehalten von Kommunikationslinien über
+längere Zeiträume hinweg. So schränken sie die vorhandenen
+Möglichkeitsräume ein und schaffen eine trügerische Eindeutigkeit auf
+Kosten einer notwendigen Innovation und Offenheit für Ambiguität in
+Absatzmärkten und damit für die Bedürfnisse der Kunden.
+
+So entwickeln sich Manager immer mehr zu ambiguitätstoleranten
+Persönlichkeiten, die nicht bestrebt sind, Ambiguität zu vermeiden,
+sondern diese suchen, genießen und aktiv gestalten. Manager werden so zu
+„fehlerproduzierenden Ambiguitäts- und Komplexitätsmaschinen``
+\autocite{gutzmer2020}.
+
+\section{Über was gilt es
+nachzudenken}\label{uxfcber-was-gilt-es-nachzudenken}
+
+In der folgenden Tabelle~\ref{tbl-ref} sind die vier Bereich mit
+relevanten Fragen zur Reflexion über die Ambiguitätstoleranz
+zusammengefasst. Sowohl Führungskräfte als auch Teams können sich diese
+Fragen beantworten.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 0\tabcolsep) * \real{1.0000}}@{}}
+\caption{Reflexionsbereiche zur
+Ambiguitätsbewältigung}\label{tbl-ref}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Wahrnehmung}
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Wahrnehmung}
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+- Überprüfung der Denkprozesse auf individueller Ebene- Gelassenheit in
+Führungs- und Visionsprozessen \\
+\textbf{Kontext} \\
+- Hinterfragen der Beziehungen zur sozialen Umwelt- Verständnis schaffen
+für die Art und Weise, wie Erfahrungen erklärt werden-
+Widersprüchlichkeit als Element von visionärem Denken und Innovation
+verstehen \\
+\textbf{Haltung} \\
+- Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und
+Person- Gestaltung einer Prototypenkultur und Reduktion von
+statuskonstruierenden Wissensansprüchen \\
+\textbf{Handeln} \\
+- Strukturelle Faktoren für unser Handeln hinterfragen- Machtfragen
+erkennen und verstehen {[}ggf. verändern und neu gestalten{]}-
+Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und ggf.
+anpassen \\
+\end{longtable}
+
+\emph{Quelle: siehe auch \autocite{kozica2025}, eigene Darstellung}
+
+\section{Über ein Fazit}\label{uxfcber-ein-fazit}
+
+Ambiguität ist kein Problem, das gelöst werden kann -- sie ist vielmehr
+ein Zustand, den es zu gestalten gilt. Führungskräfte und Organisationen
+müssen lernen, Mehrdeutigkeit nicht nur auszuhalten, sondern sie aktiv
+als Chance für Innovation und Vielfalt zu nutzen. Nur so können sie den
+Herausforderungen einer immer komplexeren Welt gerecht werden.
+
+\section{Literaturverzeichnis}\label{literaturverzeichnis}
+
+\printbibliography[heading=none]
+
+
+
+
+
+\end{document}
