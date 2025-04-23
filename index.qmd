@@ -120,11 +120,15 @@ In der folgenden @tbl-ref sind die vier Bereich mit relevanten Fragen zur Reflex
 
 ::: {#tbl-ref}
 
-| **Wahrnehmung**      | **Kontext**    |
-|:---------------------|:----------------------|
-| - Überprüfung der Denkprozesse auf individueller Ebene<br>- Gelassenheit in Führungs- und Visionsprozessen   | - Hinterfragen der Beziehungen zur sozialen Umwelt<br>- Verständnis schaffen für die Art und Weise, wie Erfahrungen erklärt werden<br>- Widersprüchlichkeit als Element von visionärem Denken und Innovation verstehen  |
-| **Haltung**    | **Handeln**    |
-| - Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und Person<br>- Gestaltung einer Prototypenkultur und Reduktion von statuskonstruierenden Wissensansprüchen  | - Strukturelle Faktoren für unser Handeln hinterfragen<br>- Machtfragen erkennen und verstehen [ggf. verändern und neu gestalten]<br>- Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und ggf. anpassen  |
+| **Wahrnehmung**      |
+|:---------------------|
+| - Überprüfung der Denkprozesse auf individueller Ebene<br>- Gelassenheit in Führungs- und Visionsprozessen   | 
+| **Kontext** |
+| - Hinterfragen der Beziehungen zur sozialen Umwelt<br>- Verständnis schaffen für die Art und Weise, wie Erfahrungen erklärt werden<br>- Widersprüchlichkeit als Element von visionärem Denken und Innovation verstehen  |
+| **Haltung**    | 
+| - Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und Person<br>- Gestaltung einer Prototypenkultur und Reduktion von statuskonstruierenden Wissensansprüchen  | 
+|**Handeln**    |
+| - Strukturelle Faktoren für unser Handeln hinterfragen<br>- Machtfragen erkennen und verstehen [ggf. verändern und neu gestalten]<br>- Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und ggf. anpassen  |
 
 Reflexionsbereiche zur Ambiguitätsbewältigung
 
