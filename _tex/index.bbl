@@ -1,0 +1,406 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{bauer2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=319df0a78bd00f5c07cd7c3ad5c9c58b}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ditzingen}%
+      }
+      \list{publisher}{1}{%
+        {Reclam}%
+      }
+      \strng{namehash}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{fullhash}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{fullhashraw}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{bibnamehash}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{authorbibnamehash}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{authornamehash}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{authorfullhash}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \strng{authorfullhashraw}{319df0a78bd00f5c07cd7c3ad5c9c58b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3. Auflage}
+      \field{isbn}{978-3-15-019492-8}
+      \field{langid}{german}
+      \field{title}{{Die Vereindeutigung der Welt über den Verlust an Mehrdeutigkeit und Vielfalt}}
+      \field{year}{2018}
+      \keyw{nosource}
+    \endentry
+    \entry{bauman2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=305ef4a79e37fbc3f2cfde09598de1cc}{%
+           family={Bauman},
+           familyi={B\bibinitperiod},
+           given={Zygmunt},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hamburger Edition HIS}%
+      }
+      \strng{namehash}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{fullhash}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{fullhashraw}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{bibnamehash}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{authorbibnamehash}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{authornamehash}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{authorfullhash}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \strng{authorfullhashraw}{305ef4a79e37fbc3f2cfde09598de1cc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Moderne Und Ambivalenz: {{Das Ende}} Der {{Eindeutigkeit}}}
+      \field{year}{2016}
+    \endentry
+    \entry{gutzmer2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c55212c110abc85fa2cabc0ecc133fd}{%
+           family={Gutzmer},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{fullhash}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{fullhashraw}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{bibnamehash}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{authorbibnamehash}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{authornamehash}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{authorfullhash}{7c55212c110abc85fa2cabc0ecc133fd}
+      \strng{authorfullhashraw}{7c55212c110abc85fa2cabc0ecc133fd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-658-30286-3 978-3-658-30287-0}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Haltung}}
+      \field{title}{{Haltung: Warum die Wirtschaft mehr davon braucht -- und die Architektur sie schon hat}}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-30287-0
+      \endverb
+      \verb{file}
+      \verb /Users/sebastiansukstorf/Zotero/storage/38V9PN8P/Gutzmer - 2020 - Haltung Warum die Wirtschaft mehr davon braucht –.pdf
+      \endverb
+    \endentry
+    \entry{hruby2014}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70081507693880afc9142b67257f3f6a}{%
+           family={Hruby},
+           familyi={H\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{70081507693880afc9142b67257f3f6a}
+      \strng{fullhash}{70081507693880afc9142b67257f3f6a}
+      \strng{fullhashraw}{70081507693880afc9142b67257f3f6a}
+      \strng{bibnamehash}{70081507693880afc9142b67257f3f6a}
+      \strng{authorbibnamehash}{70081507693880afc9142b67257f3f6a}
+      \strng{authornamehash}{70081507693880afc9142b67257f3f6a}
+      \strng{authorfullhash}{70081507693880afc9142b67257f3f6a}
+      \strng{authorfullhashraw}{70081507693880afc9142b67257f3f6a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-658-06051-0 978-3-658-06052-7}
+      \field{langid}{ngerman}
+      \field{series}{{essentials}}
+      \field{shorttitle}{{Global Mindsets}}
+      \field{title}{{Global Mindsets: Überblick und Bedeutung für Unternehmen und Organisationen}}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-06052-7
+      \endverb
+    \endentry
+    \entry{kozica2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6c0cb68c5843284f851856df62047a11}{%
+           family={Kozica},
+           familyi={K\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da6eda5f00152ae4537f9d10883496fa}{%
+           family={Haas},
+           familyi={H\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{fullhash}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{fullhashraw}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{bibnamehash}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{authorbibnamehash}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{authornamehash}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{authorfullhash}{6c349fbab1683b0d117b45e0e3b6639b}
+      \strng{authorfullhashraw}{6c349fbab1683b0d117b45e0e3b6639b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In Zeiten kontinuierlichen Wandels steigt der Wunsch nach Orientierung. Das gilt für Gesellschaften wie für Organisationen. Dafür ist es jedoch nötig, aus dem täglichen Handeln auszusteigen und innezuhalten. Nicht selten wird jedoch entschleunigen als langsam sein fehlinterpretiert. Das führt dazu, dass wir nicht nur vor lauter Bäumen den Wald nicht mehr sehen, sondern uns immer [{\dots}]}
+      \field{journaltitle}{OrganisationsEntwicklung}
+      \field{langid}{ngerman}
+      \field{title}{{Kluges Fragen}}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{volume}{01}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{morschitzky2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5cc079c6e6b5c702d3778ad841cd9047}{%
+           family={Morschitzky},
+           familyi={M\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verl}%
+      }
+      \strng{namehash}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{fullhash}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{fullhashraw}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{bibnamehash}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{authorbibnamehash}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{authornamehash}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{authorfullhash}{5cc079c6e6b5c702d3778ad841cd9047}
+      \strng{authorfullhashraw}{5cc079c6e6b5c702d3778ad841cd9047}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Vierte, überarbeitete und erweiterte Auflage}
+      \field{isbn}{978-3-211-09449-5 978-3-211-09448-8}
+      \field{langid}{german}
+      \field{shorttitle}{{Angststörungen}}
+      \field{title}{{Angststörungen: Diagnostik, Konzepte, Therapie, Selbsthilfe}}
+      \field{year}{2009}
+      \verb{file}
+      \verb /Volumes/192.168.178.158/bibattachement/morschitzky_2009.pdf
+      \endverb
+    \endentry
+    \entry{roth2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a93c038f52b8e8a748f6d332381ce1d}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Klett-Cotta}%
+      }
+      \strng{namehash}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{fullhash}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{fullhashraw}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{bibnamehash}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{authorbibnamehash}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{authornamehash}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{authorfullhash}{5a93c038f52b8e8a748f6d332381ce1d}
+      \strng{authorfullhashraw}{5a93c038f52b8e8a748f6d332381ce1d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1st ed}
+      \field{isbn}{978-3-608-96456-1 978-3-608-19185-1}
+      \field{langid}{german}
+      \field{shorttitle}{{Warum es so schwierig ist, sich und andere zu ändern}}
+      \field{title}{{Warum es so schwierig ist, sich und andere zu ändern: Persönlichkeit, Entscheidung und Verhalten}}
+      \field{year}{2019}
+    \endentry
+    \entry{stulle2024}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4bc4dad70ab8abc1f5aede02a38093c8}{%
+           family={Stulle},
+           familyi={S\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6cf70e90ab49818c92db9796faf30b}{%
+           family={Beenen},
+           familyi={B\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Köln}%
+      }
+      \strng{namehash}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{fullhash}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{fullhashraw}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{bibnamehash}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{authorbibnamehash}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{authornamehash}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{authorfullhash}{c2616e40b625e3a83389dea00f3f34fe}
+      \strng{authorfullhashraw}{c2616e40b625e3a83389dea00f3f34fe}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{1. Halbjahr 2024}
+      \field{shorttitle}{Im {{Fokus}}: {{Zukunftskompetenzen}} Für {{Führungskräfte}}}
+      \field{title}{Talent {{Klima Index}}}
+      \field{type}{techreport}
+      \field{urlday}{13}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sebastiansukstorf/Zotero/storage/XFBZYMJY/TKI-Ergebnisse-Hb1-2024.pdf.pdf
+      \endverb
+    \endentry
+    \entry{witte2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9ba939b32decfa027bc009dfe270899f}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9ba939b32decfa027bc009dfe270899f}
+      \strng{fullhash}{9ba939b32decfa027bc009dfe270899f}
+      \strng{fullhashraw}{9ba939b32decfa027bc009dfe270899f}
+      \strng{bibnamehash}{9ba939b32decfa027bc009dfe270899f}
+      \strng{authorbibnamehash}{9ba939b32decfa027bc009dfe270899f}
+      \strng{authornamehash}{9ba939b32decfa027bc009dfe270899f}
+      \strng{authorfullhash}{9ba939b32decfa027bc009dfe270899f}
+      \strng{authorfullhashraw}{9ba939b32decfa027bc009dfe270899f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thomas {{Saueressig}} Über Seinen {{Aufstieg}} Bei {{SAP}} Zum Jüngsten {{Vorstand}}}
+      \field{year}{2024}
+    \endentry
+    \entry{zeh2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f3900ca6770d446d237b7f352041a8d}{%
+           family={Zeh},
+           familyi={Z\bibinitperiod},
+           given={Juli},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {München [Munich, Germany]}%
+      }
+      \list{publisher}{1}{%
+        {btb (in der Penguin Random House Verlagsgruppe)}%
+      }
+      \strng{namehash}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{fullhash}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{fullhashraw}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{bibnamehash}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{authorbibnamehash}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{authornamehash}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{authorfullhash}{2f3900ca6770d446d237b7f352041a8d}
+      \strng{authorfullhashraw}{2f3900ca6770d446d237b7f352041a8d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"Dora ist mit ihrer kleinen Hündin aufs Land gezogen. Sie brauchte dringend einen Tapetenwechsel, mehr Freiheit, Raum zum Atmen. Aber ganz so idyllisch wie gedacht ist Bracken, das kleine Dorf im brandenburgischen Nirgendwo, nicht. In Doras Haus gibt es noch keine Möbel, der Garten gleicht einer Wildnis, und die Busverbindung in die Kreisstadt ist ein Witz. Vor allem aber verbirgt sich hinter der hohen Gartenmauer ein Nachbar, der mit kahlrasiertem Kopf und rechten Sprüchen sämtlichen Vorurteilen zu entsprechen scheint. Geflohen vor dem Lockdown in der Grossstadt muss Dora sich fragen, was sie in dieser anarchischen Leere sucht.... " -- adapted from publisher's description}
+      \field{annotation}{OCLC: 1349351750}
+      \field{edition}{2. Auflage}
+      \field{isbn}{978-3-442-77219-3}
+      \field{langid}{german}
+      \field{shorttitle}{{Über Menschen}}
+      \field{title}{{Über Menschen: Roman}}
+      \field{year}{2022}
+      \verb{file}
+      \verb /Users/sebastiansukstorf/Zotero/storage/TXCPVCFK/Zeh - 2022 - Über Menschen Roman.pdf
+      \endverb
+      \keyw{nosource}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

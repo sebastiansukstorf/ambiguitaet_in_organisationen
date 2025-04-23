@@ -1,0 +1,10 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Über Menschen}{2}{section.1}%
+\contentsline {section}{\numberline {2}Über Eindeutigkeit und ihre Gefahren}{2}{section.2}%
+\contentsline {section}{\numberline {3}Über das eherne Ambiguitätsenergieerhaltungsgesetz}{3}{section.3}%
+\contentsline {section}{\numberline {4}Über die inhärenten Manager und die Suche nach Information}{3}{section.4}%
+\contentsline {section}{\numberline {5}Über die ``Kohärenzmaschinen''}{4}{section.5}%
+\contentsline {section}{\numberline {6}Über was gilt es nachzudenken}{5}{section.6}%
+\contentsline {section}{\numberline {7}Über ein Fazit}{5}{section.7}%
+\contentsline {section}{\numberline {8}Literaturverzeichnis}{6}{section.8}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
