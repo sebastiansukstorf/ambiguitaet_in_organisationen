@@ -6,25 +6,21 @@ author:
     email: info@sebastian.sukstorf.de
     affiliations:
       - name: Sebastian Sukstorf – Leadership Design
-        address: Parkallee 50
-        city: Ahrensburg
-        state: Schleswig-Holstein
-        postal-code: 22926
 date: 2025-04-23
 
 citation: true
-doi: 10.12345/ueber-menschen-2025
-url: https://sebastian.sukstorf.de/papers/ueber-menschen
+#doi: 10.12345/ueber-menschen-2025
+url: https://ambiguitaete.sukstorf.de
 
 lang: de
 abstract: |
-  Ambiguität ist ein zentraler Faktor in modernen Führungs- und Organisationskontexten. [...]
+  Ambiguität ist kein Problem, sondern ein Gestaltungsraum. Der Text zeigt, wie Führungskräfte lernen können, mit Mehrdeutigkeit konstruktiv umzugehen – durch Reflexion, Kontextbewusstsein und eine offene Haltung. So wird Unsicherheit zur Quelle von Innovation und Vielfalt.
 
 keywords: [Ambiguität, Führung, Organisation, Komplexität, kognitive Flexibilität, Prototypenkultur, Leadership]
 
 bibliography: 
   - bib/bibliography.bib
-csl: bib/elsevier-with-titles-alphabetical.csl
+#csl: bib/elsevier-with-titles-alphabetical.csl
 
 format:
   html:
@@ -42,8 +38,6 @@ format:
 
 manuscript: true
 ---
-
-
 
 # Über Menschen
 
