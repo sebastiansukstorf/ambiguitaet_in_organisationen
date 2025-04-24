@@ -3,10 +3,12 @@ project:
   output-dir: docs
 
 title: "Ambiguität in Organisationen"
+description: "Ambiguität ist kein Problem, sondern ein Gestaltungsraum. Der Text zeigt, wie Führungskräfte lernen können, mit Mehrdeutigkeit konstruktiv umzugehen – durch Reflexion, Kontextbewusstsein und eine offene Haltung. So wird Unsicherheit zur Quelle von Innovation und Vielfalt."
 site-url: "https://ambiguitaet.sukstorf.de"
-open-graph:
-  twitter-card:
-    creator: "@sukstorf"
+twitter-card:
+  site: "@sukstorf"
+  creator: "@sukstorf"
+  image: "ambiguitaet.png"
 
 execute:
   freeze: auto
