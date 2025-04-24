@@ -1,8 +1,41 @@
+# 🔧 Quarto intern
+.quarto/
+cache/
+freeze/
+docs/               # Output-Verzeichnis bei output-dir: docs
 
-/.quarto/
-/_manuscript
+# 📄 Manuskriptstruktur
+_manuscript/        # Wenn du lokal speicherst
+manuscript/         # Falls ohne Unterstrich genutzt
 
+# 📚 LaTeX-Zwischendateien (PDF-Export)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.pdf               # Falls du PDFs nur lokal testest
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# 💻 System-/Editor-Dateien
+.DS_Store
+.Rhistory
+.Rproj.user
+.luarc.json
+
+# 📁 Externe LaTeX-Klassen/Styles
 /agujournal2019.cls
 /trackchanges.sty
 
-/.luarc.json
+# ⚠️ Optional: Output-Figuren (wenn generiert)
+figures/*.png
+
+/.quarto/

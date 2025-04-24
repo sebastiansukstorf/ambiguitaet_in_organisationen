@@ -5,16 +5,26 @@ project:
 title: "Ambiguität in Organisationen"
 site-url: "https://ambiguitaet.sukstorf.de"
 
-manuscript: {}
-
 execute:
   freeze: auto
+  echo: true
+  warning: false
+  message: false
+
+manuscript:
+  article: index.qmd
 
 format:
   html:
     toc: true
+    number-sections: true
     comments:
       hypothesis: true
-  #docx: default
-  #jats: default
-  #agu-pdf: default
+  pdf:
+    toc: true
+    number-sections: true
+    number-tables: true
+    keep-tex: true
+    biblio-style: authoryear
+    cite-method: biblatex
+
