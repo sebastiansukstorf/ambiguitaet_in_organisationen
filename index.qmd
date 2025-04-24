@@ -126,6 +126,9 @@ Im folgenden sind vier Bereich mit relevanten Aspekten zur Reflexion über die A
 
 Ambiguität ist kein Problem, das gelöst werden kann – sie ist vielmehr ein Zustand, den es zu gestalten gilt. Führungskräfte und Organisationen müssen lernen, Mehrdeutigkeit nicht nur auszuhalten, sondern sie aktiv als Chance für Innovation und Vielfalt zu nutzen. Nur so können sie den Herausforderungen einer immer komplexeren Welt gerecht werden.
 
+
+AAAA BBBB CCCC 
+
 # Literaturverzeichnis
 
 ::: {#refs}
