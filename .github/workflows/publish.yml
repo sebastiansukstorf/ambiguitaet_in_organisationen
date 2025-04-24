@@ -1,25 +1,25 @@
-on:
-  workflow_dispatch:
-  push:
-    branches: main
-
 name: Quarto Publish
 
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
 jobs:
-  build-deploy:
+  render-publish:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: pre-release
-          tinytex: true
-
+          version: latest     # stabil statt pre-release
+          tinytex: true       # falls PDF verwendet wird
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
