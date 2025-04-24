@@ -4,6 +4,9 @@ project:
 
 title: "Ambiguität in Organisationen"
 site-url: "https://ambiguitaet.sukstorf.de"
+open-graph: true
+  twitter-card:
+    creator: "@sukstorf"
 
 execute:
   freeze: auto
