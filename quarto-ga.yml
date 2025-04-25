@@ -18,6 +18,7 @@ format:
     number-sections: true
     comments:
       hypothesis: true
+    include-in-header: ga.html
   pdf:
     toc: true
     number-sections: true
@@ -25,5 +26,3 @@ format:
     keep-tex: true
     biblio-style: authoryear
     cite-method: biblatex
-
-
