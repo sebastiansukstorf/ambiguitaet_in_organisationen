@@ -55,36 +55,38 @@ Diese Auseinandersetzung erscheint für manche aber eine Zumutung und die notwen
 
 # Über Eindeutigkeit oder die latente Gefahr der Blindheit
 
-Menschen unterscheiden sich in ihrer jeweiligen Ambiguitätstoleranz, ähnlich wie im transaktionalen Umgang mit Stress [@lazarus1984]. In Organisationen haben Führungskräfte deswegen immer mehr die Aufgabe, im Rahmen der allgemeinen Sorgfaltspflicht, die psychologischen Einflüsse der MitarbeiterInnen und die Umwelt im jeweiligen System des Unternehmens zu berücksichtigen und aktiv zu gestalten. Hierdurch tragen sie aktiv dazu bei, die Ambiguitätstoleranz nicht nur zu fördern sondern auch zu stärken. 
-Ambiguitätsintoleranz und das Streben nach Eindeutigkeit birgt eine große Gefahr: Wir verlieren die Vielfalt und werden im wahrsten Sinne blind. 
+Menschen unterscheiden sich in ihrer jeweiligen Ambiguitätstoleranz, ähnlich wie im transaktionalen Umgang mit Stress [@lazarus1984]. In Organisationen haben Führungskräfte deswegen immer mehr die Aufgabe, im Rahmen der allgemeinen Sorgfaltspflicht, die psychologischen Einflüsse der MitarbeiterInnen und die Umwelt im jeweiligen System des Unternehmens zu berücksichtigen und aktiv zu gestalten. Hierdurch tragen sie bei, die Ambiguitätstoleranz nicht nur zu fördern, sondern auch zu stärken. 
+Ambiguitätsintoleranz und das Streben nach Eindeutigkeit birgt jedoch eine große Gefahr: Wir verlieren die Vielfalt und werden im wahrsten Sinne des Wortes blind. 
 
-Diese "Blindheit" ist aber auch ein Zeichen von ambiguitätsintoleranten Systeme. So tendieren Organisationen dazu, Dinge, die nicht erkannt werden, als unwichtig zu betrachten oder ganz fallen zu lassen [@bauer2018, 54].
+Diese "Blindheit" ist oft ein Zeichen von ambiguitätsintoleranten Systeme. So tendieren Organisationen beispielsweise dazu, Dinge, die nicht erkannt werden, als unwichtig zu betrachten oder ganz fallen zu lassen [@bauer2018, 54].
 
-Das zeigt sich beispielweise am Desinteresse vieler Menschen für Politik. Das fehlende Interesse an politischen Themen und Fragestellungen kann vielleicht ein Zeichen der Ambiguitätsverweigerung sein und verweist auf eine mangelnde Bereitschaft zur inhaltlichen Auseinandersetzung mit Politik [@bauer2018, 13 und 25]. 
+Das zeigt sich beispielweise am Desinteresse vieler Menschen für Politik. Das fehlende Interesse an politischen Themen und Fragestellungen kann vielleicht ein Zeichen der Ambiguitätsverweigerung sein und verweist eventuell auch auf eine mangelnde Bereitschaft zur inhaltlichen Auseinandersetzung mit politischen Fragestellungen oder der Politik im Ganzen [@bauer2018, 13, 25]. 
 
 Aber Juli Zeh beschreibt in ihrem Roman „Über Menschen“ nicht nur die Situation zum Beginn der Corona-Pandemie als ein Beispiel für eine ambige gesellschaftliche Situation, sie lässt Dora auch gleich eine Antwort für eine mögliche Auflösung von Ambiguität geben:
 
 > „[…] der Mensch kann viel weniger begreifen und kontrollieren, als er glaubt. Auf dieses Dilemma kann weder Nichtstun noch Aktionismus die richtige Antwort sein. Nach Doras Ansicht geht es um Augenmaß beim Handeln und größtmögliche Ehrlichkeit in der Kommunikation. Voraussetzung von Ehrlichkeit ist das Bekenntnis zum Nicht-genau-Wissen.“
 
-Damit können hier schon die relevanten Handlungsfelder für einen möglichen Abbau von Ambiguität ausgemacht werden. Es geht im Wesentlichen um das eigene **Handeln**, unsere **Haltung** und **Wahrnehmung**, im Sinne eines ‚Nicht-genau-Wissen‘, sowie den **Kontext**, in dem wir uns bewegen [vgl. @kozica2025]. 
+Damit können hier schon die relevanten Handlungsfelder für einen möglichen Abbau von Ambiguität ausgemacht werden. Es geht im Wesentlichen um das eigene **Handeln**, unsere **Haltung** und die **Wahrnehmung**, im Sinne eines ‚Nicht-genau-Wissen‘, sowie den **Kontext**, in dem wir uns bewegen [vgl. @kozica2025]. 
 
 # Über das eherne Ambiguitätsenergieerhaltungsgesetz
 
-Aber eine Warnung gleich vorweg: Das Auflösen von Ambiguität erzeugt oft neue Formen von Ambiguität. So schafft das Auflösen der ambigen Zustände oft nie die gewünschte Eindeutigkeit. Ambiguität lässt sich vielleicht gar nicht vollkommen auflösen. Bauer spricht in diesem Zusammenhang auch von einem Ambiguitätsenergieerhaltungsgesetz: 
+Aber eine Warnung gleich vorweg: Das Auflösen von Ambiguität erzeugt oft neue und andere Formen der Ambiguität. So schafft das Auflösen der uneindeutigen Zustände oft nie die gewünschte Eindeutigkeit. Ambiguität lässt sich vielleicht gar nicht vollkommen auflösen. Bauer spricht in diesem Zusammenhang auch von einem Ambiguitätsenergieerhaltungsgesetz: 
 
 > „Je mehr Energie für die Beseitigung von Ambiguität aufgewendet wird, desto mehr Ambiguität entsteht im Verhältnis zur jeweils beseitigten Ambiguität.“ [@bauer2018, 76]
 
 Uneindeutigkeit scheint also damit eine Zustand unserer Zeit zu sein. So müssen wir uns nach Zygmut Bauman damit abfinden, dass Ambiguität das Mittel der Moderne schlechthin ist, um unsere selbstverschuldeten und destruktiven Potenziale aufzulösen [@bauman2016]. 
 
-Der SAP-Vorstand Thomas Saueressig stellt in einem Interview fest, dass Entscheidungen nie schwarz oder weiß sind und man mit dieser Ambiguität umzugehen lernen muss. [@witte2024] Aber manche Menschen lösen diese Zustände nie auf, da sie Angst vor Ungewissheiten der Zukunft haben und es ihnen am Vertrauen in die eigenen Möglichkeiten fehlt [@morschitzky2009, 15]. 
+Der SAP-Vorstand Thomas Saueressig stellt in einem Interview fest, dass Entscheidungen für ihn nie schwarz oder weiß sind und man mit dieser Ambiguität umzugehen lernen muss. [@witte2024] 
+Aber manche Menschen lösen diese Zustände nie auf, da sie Angst vor den Ungewissheiten der Zukunft haben und es ihnen am Vertrauen in die eigenen Möglichkeiten fehlt [@morschitzky2009, 15]. 
 
-Ambiguität, Undurchschaubarkeit und Unwissenheit über zukünftige Entwicklungen und Paradoxien prägen den unternehmerischen Alltag. Vor diesem Hintergrund lösen sich Gewissheiten auf und es reicht nicht mehr aus, nur das „Bestehende zu optimieren“. Es gilt eine „Sowohl-als-auch“-Haltung durch Reflexion der eigenen „Wahrnehmung, Haltungen und Handlungen sowie den Kontext“ einzunehmen [@kozica2025].
+Ambiguität, Undurchschaubarkeit und Unwissenheit über zukünftige Entwicklungen und Paradoxien prägen den unternehmerischen Alltag. Lieb gewordene Gewissheiten lösen sich immer mehr auf und es reicht nicht mehr aus, nur das „Bestehende zu optimieren". Es gilt eine „Sowohl-als-auch“-Haltung durch Reflexion der eigenen „Wahrnehmung, Haltungen und Handlungen sowie den Kontext“ einzunehmen [@kozica2025].
 
 # Über inhärente Manager und die kognitive Komplexität
 
 Es werden also ambiguitätstolerante Führungskräfte benötigt, die nicht bestrebt sind, Ambiguität zu vermeiden, sondern sie vielmehr suchen, genießen und diese sehr bewusst zu gestalten [@bauer2018, 90]. 
 
-Hruby schreibt diesen Menschen eine hohe kognitive Komplexität bei. Sie zeichnen sich gerade dadurch aus, dass sie über eine „gewisse Struktur“ und über ausreichendes Wissen verfügen. Kognitiv komplexe Menschen suchen nach umfangreichen und neuen Informationen. Sie verbringen viel Zeit damit, die vorhandenen Informationen im gegebenen Kontext zu interpretieren und betrachten diese auch von unterschiedlichen Dimensionen. Eine hohe kognitive Komplexität kann dazu beitragen, mit Ambiguität besser umzugehen [@hruby2014, 5].
+Hruby schreibt diesen Menschen eine hohe kognitive Komplexität bei. Sie zeichnen sich gerade dadurch aus, dass sie über eine „gewisse Struktur“ und über ausreichendes Wissen verfügen. Kognitiv komplexe Menschen suchen nach umfangreichen und neuen Informationen. Sie verbringen viel Zeit damit, die vorhandenen Informationen im gegebenen Kontext zu interpretieren und betrachten diese auch von unterschiedlichen Dimensionen. Eine hohe kognitive Komplexität kann dazu beitragen, mit Ambiguität besser umzugehen [@hruby2014, 5]. 
+Es geht hier auch um Innehalten und ein tiefes Nachdenken über die erlebten Zustände. Der Faktor Zeit bekommt für die Bewältigung von Ambiguität eine immer größere Bedeutung.
 
 Zu demselben Ergebnis kommt auch der von dem Beratungsunternehmen Profil M und der Hochschule Fresenius publiziert Talent-Klima-Index [TKI]. Der TKI 2024 nennt die Ambiguitätstolerant an dritter Stelle als eine der wichtigsten Kompetenzen von Führungskräften, nach Optimismus, Zukunftsorientierung und einem positiven Umgang mit Veränderungen [@stulle2024].
 
@@ -92,32 +94,31 @@ Zu demselben Ergebnis kommt auch der von dem Beratungsunternehmen Profil M und d
 # Über Kohärenz- oder Komplexitätsmaschinen
 
 Aber es darf berechtigterweise gefragt werden, ob Führungskräfte mit diesen Fähigkeiten auch im System ihrer Organisation über die nötigen Zeitressourcen verfügen, um mit ambigen Zuständen umgehen zu können. 
+Wer sich Zeit nimmt, nachdenkt und mehrere Lösungen integriert, dem wird eventuell zugeschieben, dass er zögerlich sei und sich gerade nicht durch schnelle Entscheidungsfreude auszeichnet.
 
-Vielleicht können die handelnden Personen im Wirtschaftssystem von anderen System lernen. So wagt Gutzmer einen Blick auf den Architekten Rem Koolhaas vom [OMA – Office for Metropolitan Architects](https://www.oma.com) und stellt die provokante Frage, ob Manager eventuell etwas von Architekten lernen können.
+Vielleicht sollte die handelnden Personen im Wirtschaftssystem auf andere System sehen. So wagt Gutzmer einen Blick auf den Architekten Rem Koolhaas von [OMA – Office for Metropolitan Architects](https://www.oma.com) und stellt die provokante Frage, ob Manager eventuell etwas von Architekten lernen können.
 
 Architekten, wie Manager waren in der Vergangenheit Kohärenzmaschinen, mit einem allwissenden und vorausschauenden Anspruch zur sicheren Gestaltung einer eindeutigen Welt. Dieser Zustand löst sich aufgrund der zunehmenden Geschwindigkeit bei den vielfältigen und gleichzeitigen Veränderungen aber immer mehr auf [@roth2019 11]. Stattdessen ist es dem inhärenten Manager auferlegt, mit den Widersprüchlichkeiten seiner Zeit im Zusammenhang seiner Rolle(n) immer wieder neue und offene Lösungen zu finden [@gutzmer2020, 102].
 
 In diesem Zusammenhang können kognitiv flexible und inhärenten Manager sich an den Diagramm-Modellen der Architekten von OMA orientieren. Diese Diagramme, sind ein visuelles Rechenergebnis, welches alle Ergebnisse, Vermutungen und jegliches Wissen im System eines Gebäude integrierte. 
 
-Damit werden diese Diagramme ein Kommunikationsmittel zur Erläuterung der ambigen Zustände und integrieren alle vorherrschenden Widersprüchlichkeiten in einem Gebäude oder einem System. Es gilt also auch im unternehmerischen Kontext die richtigen Diagramm-Modell zu finden und zu verwenden, um in immer komplexeren Kommunikationen zu agieren. 
+Damit werden diese Diagramme ein Kommunikationsmittel zur Erläuterung der ambigen Zustände und integrieren alle vorherrschenden Widersprüchlichkeiten in einem einem System. Es gilt also auch im unternehmerischen Kontext die richtigen Diagramm-Modell zu finden und zu anzuwenden, um sich als Führungskraft in immer komplexeren Kommunikationssituationen sicher zu bewegen. 
 
-Die oftmals in Unternehmen vorhandene Visions-, Leitbilder oder Führungsleitlinien sind einzelne Kommunikationsmedien, die entweder von der Geschäftsführung und Führungskräften, der Personalabteilung oder in der Marketingabteilung oftmals losgelöst entwickelt wurden. 
-Diese gut gemeinten Guidelines ähneln - um im Bilder der Architektur zu bleiben - eher den unterschiedlichen Materialien auf einer Großbaustelle: Lose hingeworfene Sandhaufen, kunterbunte Steinwüsten oder scharfkantig gestapelte Metallträger. Es fehlt an einem integrierenden System, welches 'Nicht-genau-Wissen' integriert.
-
-Diese Widersprüchlichkeit fehlt oft bei dem Verfolgen einer klaren Vision und dem dauerhaften Beibehalten von Kommunikationslinien über längere Zeiträume hinweg. So schränken sie die vorhandenen Möglichkeitsräume ein und schaffen eine trügerische Eindeutigkeit auf Kosten einer notwendigen Innovation und Offenheit für Ambiguität in Absatzmärkten und damit für die Bedürfnisse der Kunden.
+Die in Unternehmen vorhandene Visions- und Leitbilder oder Führungsleitlinien können hier als Kommunikationsmedien verstanden werden, die entweder von der Geschäftsführung und Führungskräften, der Personalabteilung oder sogar von der Marketingabteilung entwickelt wurden. 
+Diese gut gemeinten Guidelines ähneln - um im Bilder der Architektur zu bleiben - eher den unterschiedlichen Materialien auf einer Großbaustelle: Lose und oftmals nicht integierte Artefakte sind sie, wie hingeworfenen Sandhaufen, die kunterbunten Steinwüsten oder die scharfkantigen gestapelten Metallträger. Es fehlt an einem integrierenden System, welches das 'Nicht-genau-Wissen' integriert.
 
 So entwickeln sich Manager immer mehr zu ambiguitätstoleranten Persönlichkeiten, die nicht bestrebt sind, Ambiguität zu vermeiden, sondern diese suchen, genießen und aktiv gestalten. Manager werden so zu „fehlerproduzierenden Ambiguitäts- und Komplexitätsmaschinen“ [@gutzmer2020].
 
 # Über was gilt es nachzudenken
 
-Im folgenden sind vier Bereich mit relevanten Aspekten zur Reflexion über die Ambiguitätstoleranz zusammengefasst. Sowohl Führungskräfte als auch Teams können sich diese Fragen beantworten.
+Im folgenden sind vier Bereich mit relevanten Aspekten zur Reflexion über die Ambiguitätstoleranz zusammengefasst. Sowohl Führungskräfte als auch Teams können sich diese Reflexionsräume durchschreiten.
 
 * **Handeln**
     + Strukturelle Faktoren für unser Handeln hinterfragen
-    + Machtfragen erkennen und verstehen [ggf. verändern und neu gestalten]
-    + Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und ggf. anpassen 
+    + Machtfragen erkennen und verstehen (ggf. verändern und neu gestalten)
+    + Individuelle Handlungsstrategien kennen, regelmäßig überprüfen und anpassen 
 * **Haltung**
-    + Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und Person
+    + Selbstüberprüfung und -reflexion der eigenen inhärenten Rolle und Persönlichkeit
     + Gestaltung einer Prototypenkultur und Reduktion von statuskonstruierenden Wissensansprüchen
 * **Wahrnehmung**
     + Überprüfung der Denkprozesse auf individueller Ebene
