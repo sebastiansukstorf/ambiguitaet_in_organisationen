@@ -5,6 +5,7 @@ project:
 title: "Ambiguität in Organisationen"
 description: "Ambiguität ist kein Problem, sondern ein Gestaltungsraum. Der Text zeigt, wie Führungskräfte lernen können, mit Mehrdeutigkeit konstruktiv umzugehen – durch Reflexion, Kontextbewusstsein und eine offene Haltung. So wird Unsicherheit zur Quelle von Innovation und Vielfalt."
 site-url: "https://ambiguitaet.sukstorf.de"
+google-analytics: "G-E5JTBN5NH8"  # <-- deine ID hier
 
 execute:
   freeze: auto
