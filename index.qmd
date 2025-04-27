@@ -26,7 +26,7 @@ keywords: [Ambiguität,
 
 bibliography: 
   - bib/bibliography.bib
-#csl: bib/elsevier-with-titles-alphabetical.csl
+csl: apa.csl
 
 format:
   html:
