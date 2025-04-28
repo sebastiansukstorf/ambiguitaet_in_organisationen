@@ -24,5 +24,5 @@ format:
     number-sections: true
     number-tables: true
     keep-tex: true
-    csl: apa.csl  # <- wichtig! APA Stil hier angeben
+    csl: bib/apa.csl  # <- wichtig! APA Stil hier angeben
     cite-method: pandoc  # <- wichtig! pandoc nutzen statt biblatex
