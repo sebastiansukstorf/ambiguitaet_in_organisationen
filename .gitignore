@@ -39,3 +39,6 @@ __pycache__/
 figures/*.png
 
 /.quarto/
+
+**/*.quarto_ipynb
+.DS_Store
