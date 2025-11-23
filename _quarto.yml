@@ -5,6 +5,9 @@ project:
 title: "Ambiguität in Organisationen"
 site-url: "https://ambiguitaet.sukstorf.de"
 
+website:
+  google-analytics: "G-E5JTBN5NH8"   # <-- HIER deine GA4 ID eintragen
+
 execute:
   freeze: auto
   echo: true
