@@ -21,6 +21,8 @@ format:
     number-sections: true
     comments:
       hypothesis: true
+    include-after-body: citation-footer.html
+
   pdf:
     toc: true
     number-sections: true
