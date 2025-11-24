@@ -21,7 +21,9 @@ format:
     number-sections: true
     comments:
       hypothesis: true
-    include-after-body: citation-footer.html
+    include-after-body: 
+      - citation-footer.html
+      - ga.html
 
   pdf:
     toc: true
